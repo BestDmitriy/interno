@@ -14,7 +14,7 @@ var swiper = new Swiper(".swiper-feedback", {
       nextEl: ".swiper-button-next",
       prevEl: ".swiper-button-prev",
   },
-  effect: "coverflow",
+  effect: 'coverflow',
   coverflowEffect: {
       rotate: 30,
       slideShadows: false,
